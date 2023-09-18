@@ -16,3 +16,6 @@ document.querySelector(".education-link").addEventListener("click", () => {
 document.querySelector(".contact-link").addEventListener("click", () => {
   contactSection.scrollIntoView({ behavior: "smooth" });
 });
+document.querySelector(".contact-link2").addEventListener("click", () => {
+  contactSection.scrollIntoView({ behavior: "smooth" });
+});
